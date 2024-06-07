@@ -1,2 +1,9 @@
-# genai-posts
-Repository contains all of my LinkedIn posts about Generative AI knowledge sharing, learning resources and research explanations.
+# Generative AI Posts
+Repository contains LinkedIn posts about Generative AI knowledge sharing, learning resources and research explanations. Although the repository contains only my posts, but it doesn't necessarily have to. Please raise PR to add relevant high-quality linkedin post from other people too.
+
+### June, 2024
+- [Different variants of LoRA finetuning](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7203446874765225986-uEqH/)
+- [Popular evaluation metrics for LLMs](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7203788804271276032-duxI/)
+- [Different strategies to implement Retrieval Augmented Generation (RAG)](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-nlp-activity-7204133978512003076-toVd?utm_source=share&utm_medium=member_desktop)
+- [Popular algorithms to perform embedding retrieval for RAG](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-embeddingretrieval-activity-7204497272401776640-WVWi?utm_source=share&utm_medium=member_desktop)
+- [Matryoshka embeddings for RAG](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7204852308319375361-LsCH?utm_source=share&utm_medium=member_desktop)
