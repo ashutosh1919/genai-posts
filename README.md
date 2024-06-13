@@ -10,3 +10,4 @@ Repository contains LinkedIn posts about Generative AI knowledge sharing, learni
 - [Popular fast embedding generators for RAG](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7205960718829903872-EAsE?utm_source=share&utm_medium=member_desktop)
 - [Popular Guardrails methods for LLMs](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7206309234316111872-TOBx?utm_source=share&utm_medium=member_desktop)
 - [Popular Decoding Strategies for LLMs](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7206671637151182851-iaOU?utm_source=share&utm_medium=member_desktop)
+- [How to create custom instruction tuning dataset for SFT?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7207033984512401409-tpB_?utm_source=share&utm_medium=member_desktop)
