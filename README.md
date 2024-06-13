@@ -1,5 +1,7 @@
 # Generative AI Posts
-Repository contains LinkedIn posts about Generative AI knowledge sharing, learning resources and research explanations. Although the repository contains only my posts, but it doesn't necessarily have to. Please raise PR to add relevant high-quality linkedin post from other people too.
+Repository contains LinkedIn posts about Generative AI knowledge sharing, learning resources and research explanations. Although the repository currently contains only my posts, but it doesn't necessarily have to. Please raise PR to add relevant high-quality linkedin post from other people too.
+
+If you find this repository helpful, please leave ⭐ to appreciate. It will help it reach more people. 
 
 ### June, 2024
 - [Different variants of LoRA finetuning](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7203446874765225986-uEqH/)
