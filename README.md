@@ -15,3 +15,4 @@ If you find this repository helpful, please leave ⭐ to appreciate. It will hel
 - [How to create custom instruction tuning dataset for SFT?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7207033984512401409-tpB_?utm_source=share&utm_medium=member_desktop)
 - [What is Quantization in LLMs?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7208860760116981760-Xckp?utm_source=share&utm_medium=member_desktop)
 - [What is Model Merging in LLMs and what are some popular methods for model merging?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7209216725542666240-EQrl?utm_source=share&utm_medium=member_desktop)
+- [How to create document embedding store for Retrieval-Augmented Generation (RAG)?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7209570694257336320-aeBm?utm_source=share&utm_medium=member_desktop)
