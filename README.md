@@ -3,6 +3,10 @@ Repository contains LinkedIn posts about Generative AI knowledge sharing, learni
 
 If you find this repository helpful, please leave ⭐ to appreciate. It will help it reach more people. 
 
+### July, 2024
+- [How to evaluate planning capabilities of LLM?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213569221706858496-RQ9U?utm_source=share&utm_medium=member_desktop)
+
+
 ### June, 2024
 - [Different variants of LoRA finetuning](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7203446874765225986-uEqH/)
 - [Popular evaluation metrics for LLMs](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7203788804271276032-duxI/)
