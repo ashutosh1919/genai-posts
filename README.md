@@ -5,6 +5,7 @@ If you find this repository helpful, please leave ⭐ to appreciate. It will hel
 
 ### July, 2024
 - [How to evaluate planning capabilities of LLM?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213569221706858496-RQ9U?utm_source=share&utm_medium=member_desktop)
+- [Few applied research directions to ensure low latency for LLMs](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213932743850614785-xP4R?utm_source=share&utm_medium=member_desktop)
 
 
 ### June, 2024
