@@ -1,7 +1,7 @@
 # Generative AI Posts
 Repository contains LinkedIn posts about Generative AI knowledge sharing, learning resources and research explanations. Although the repository currently contains only my posts, but it doesn't necessarily have to. Please raise PR to add relevant high-quality linkedin post from other people too.
 
-If you find this repository helpful, please leave ⭐ to appreciate. It will help it reach more people. 
+If you find this repository helpful, please leave  ⭐  to appreciate. It will help it reach more people. 
 
 ### July, 2024
 - [How to evaluate planning capabilities of LLM?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213569221706858496-RQ9U?utm_source=share&utm_medium=member_desktop)
