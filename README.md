@@ -6,6 +6,9 @@ If you find this repository helpful, please leave  ⭐  to appreciate. It will h
 ### July, 2024
 - [How to evaluate planning capabilities of LLM?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213569221706858496-RQ9U?utm_source=share&utm_medium=member_desktop)
 - [Few applied research directions to ensure low latency for LLMs](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213932743850614785-xP4R?utm_source=share&utm_medium=member_desktop)
+- [How does deep learning frameworks like TensorFlow work?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7217204195274153984-63My?utm_source=share&utm_medium=member_desktop)
+- [Difference between thinking pattern of Early career ML engineer vs Experienced ML engineer](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7216467336860434435-WQMH?utm_source=share&utm_medium=member_desktop)
+- [Designing ChatGPT like AI assistant from scratch - ML system design](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7216091242076545025-aSXJ?utm_source=share&utm_medium=member_desktop)
 - [Different ways of prompting an LLM](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7217560232162467840-Jnbf?utm_source=share&utm_medium=member_desktop)
 
 
