@@ -10,6 +10,8 @@ If you find this repository helpful, please leave  ⭐  to appreciate. It will h
 - [Difference between thinking pattern of Early career ML engineer vs Experienced ML engineer](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7216467336860434435-WQMH?utm_source=share&utm_medium=member_desktop)
 - [Designing ChatGPT like AI assistant from scratch - ML system design](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7216091242076545025-aSXJ?utm_source=share&utm_medium=member_desktop)
 - [Different ways of prompting an LLM](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7217560232162467840-Jnbf?utm_source=share&utm_medium=member_desktop)
+- [How to transition to AI/ML from any field?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7218630445222047745-Ew10?utm_source=share&utm_medium=member_desktop)
+- [My experience & Learnings as ML Engineer at TikTok](https://www.linkedin.com/posts/ashutosh1919_my-experience-as-an-ml-engineer-at-tiktok-activity-7219003523416383488-EziS?utm_source=share&utm_medium=member_desktop)
 
 
 ### June, 2024
