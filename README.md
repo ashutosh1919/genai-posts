@@ -12,6 +12,7 @@ If you find this repository helpful, please leave  ⭐  to appreciate. It will h
 - [Different ways of prompting an LLM](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7217560232162467840-Jnbf?utm_source=share&utm_medium=member_desktop)
 - [How to transition to AI/ML from any field?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7218630445222047745-Ew10?utm_source=share&utm_medium=member_desktop)
 - [My experience & Learnings as ML Engineer at TikTok](https://www.linkedin.com/posts/ashutosh1919_my-experience-as-an-ml-engineer-at-tiktok-activity-7219003523416383488-EziS?utm_source=share&utm_medium=member_desktop)
+- [How to give memory to your AI assistant just like ChatGPT?](https://www.linkedin.com/posts/ashutosh1919_llm-rag-machinelearning-activity-7220073508876242945-myPo?utm_source=share&utm_medium=member_desktop)
 
 
 ### June, 2024
