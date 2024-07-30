@@ -14,6 +14,7 @@ If you find this repository helpful, please leave  ⭐  to appreciate. It will h
 - [My experience & Learnings as ML Engineer at TikTok](https://www.linkedin.com/posts/ashutosh1919_my-experience-as-an-ml-engineer-at-tiktok-activity-7219003523416383488-EziS?utm_source=share&utm_medium=member_desktop)
 - [How to give memory to your AI assistant just like ChatGPT?](https://www.linkedin.com/posts/ashutosh1919_llm-rag-machinelearning-activity-7220073508876242945-myPo?utm_source=share&utm_medium=member_desktop)
 - [What is Calibration and why it is important for industry scale ML products?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-datascience-activity-7223734240713064449-H90N?utm_source=share&utm_medium=member_desktop)
+- [Will opensource models like Meta's Llama be able to defeat closed source models like OpenAI's GPT series?](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-datascience-activity-7224080985816981504-8vPW?utm_source=share&utm_medium=member_desktop)
 
 
 ### June, 2024
