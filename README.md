@@ -3,6 +3,10 @@ Repository contains LinkedIn posts about Generative AI knowledge sharing, learni
 
 If you find this repository helpful, please leave  ⭐  to appreciate. It will help it reach more people. 
 
+### August, 2024
+- [How does Uber predict the Expected Time of Arrival (ETA) for the trips?](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-systemdesign-activity-7225161689682296832-VS0P?utm_source=share&utm_medium=member_desktop)
+
+
 ### July, 2024
 - [How to evaluate planning capabilities of LLM?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213569221706858496-RQ9U?utm_source=share&utm_medium=member_desktop)
 - [Few applied research directions to ensure low latency for LLMs](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-llm-activity-7213932743850614785-xP4R?utm_source=share&utm_medium=member_desktop)
