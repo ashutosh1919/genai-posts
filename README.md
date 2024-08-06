@@ -6,6 +6,7 @@ If you find this repository helpful, please leave  ⭐  to appreciate. It will h
 ### August, 2024
 - [How does Uber predict the Expected Time of Arrival (ETA) for the trips?](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-systemdesign-activity-7225161689682296832-VS0P?utm_source=share&utm_medium=member_desktop)
 - [Multi-agentic RAG is all you need to build scalable enterprise-level applications using LLM.](https://www.linkedin.com/posts/ashutosh1919_machinelearning-ai-llm-activity-7226240586125651968-ExNw?utm_source=share&utm_medium=member_desktop)
+- [Do you know why TikTok's recommendation algorithm is so good?](https://www.linkedin.com/posts/ashutosh1919_ai-machinelearning-systemdesign-activity-7221169779288465408-fwa5?utm_source=share&utm_medium=member_desktop)
 
 
 ### July, 2024
